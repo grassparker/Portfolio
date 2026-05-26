@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "DockPomo",
+    "category": "macOS Application",
+    "description": "A sleek, lightweight Pomodoro productivity timer that livers right on the Macbook menu bar. Built with Swift and SwiftUI, DockPomo offers a minimalist interface for managing work sessions and breaks, helping users stay focused and productive throughout the day.",
+    "tags": ["Swift", "SwiftUI", "Xcode", "Productivity"],
+    "links": {
+      "github": "https://github.com/grassparkker"
+    },
+    "isApp": true
+  },
+  {
+    "id": 2,
+    "title": "Stars",
+    "category": "Ambient Soundscape, Synthwave",
+    "description": "An immersive, atmospheric audio environment designed to enhance focus and deep work. Explores the texture and layouring of bell-synths to create a rich and etheral soundscape that transports listeners to a serene, cosmic space. Perfect for studying, working, or simply relaxing.",
+    "tags": ["GarageBand", "Sound Design"],
+    "links": {
+      "audio": "https://soundcloud.com/grassparkker/stars?si=a3f46686e13040a4a836eb594bc20942&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    "isAudio": true
+  }
+]
