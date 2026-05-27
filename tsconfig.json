@@ -6,12 +6,20 @@
     "module": "ESNext",
     "skipLibCheck": true,
 
-    /* Bundler mode configuration */
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
-    "resolveJsonModule": true, // 👈 Essential for importing your projects.json file!
+    "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
-  }
+    "jsx": "react-jsx",
+
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": [
+    "src/**/*",
+    "declarations.d.ts" 
+  ]
 }
