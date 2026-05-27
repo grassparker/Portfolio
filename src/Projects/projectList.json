@@ -6,7 +6,7 @@
     "description": "A sleek, lightweight Pomodoro productivity timer that livers right on the Macbook menu bar. Built with Swift and SwiftUI, DockPomo offers a minimalist interface for managing work sessions and breaks, helping users stay focused and productive throughout the day.",
     "tags": ["Swift", "SwiftUI", "Xcode", "Productivity"],
     "links": {
-      "github": "https://github.com/grassparkker"
+      "github": "https://github.com/grassparker/DockPomo"
     },
     "isApp": true
   },
